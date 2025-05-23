@@ -2,6 +2,8 @@
 Responsive-Design-Implementation
 ## Company
 CODTECH IT SOLUTIONS PVT.LTD 
+# Name 
+Pratistha Biswal
 ## Intern ID
 CT04DN1147
 ## Domain
@@ -21,7 +23,7 @@ The page starts with a top navigation bar that resembles a standard e-commerce l
 
 Immediately after the navbar, a search bar is placed prominently. The intention here is to mimic user behavior on real platforms like Flipkart, where product discovery is a core feature. The search bar is large and centered for easy accessibility, especially on mobile devices.
 
-Below the search bar, the main product showcase begins. The focus of the page is a high-quality shoe image, which represents the product being sold. I selected or inserted a visually clean shoe image to give users a clear view of what they are purchasing. The image is centered within a clean frame and is given enough spacing to keep the layout breathable.
+Below the search bar, the main product showcase begins. The focus of the page is a high-quality shoe image, which represents the product being sold. I selected or inserted a visually clean shoe image to give users a clear view of what they are purchasng. The image is centered within a clean frame and is given enough spacing to keep the layout breathable.
 
 Accompanying the shoe image is its price, clearly displayed in a readable font and bold style. This allows users to quickly grasp the product's value without scrolling or confusion. The pricing section is kept close to the image for easy visual scanning and user decision-making.
 
@@ -42,5 +44,5 @@ I used Figma’s image placement tools to ensure all visuals were sharp and scal
 
 Conclusion
 
-This design demonstrates my ability to analyze a real-world platform (Flipkart), extract key user interface elements, and recreate a meaningful UI/UX experience from scratch using Figma. This task helped me improve my skills in layout design, user flow, and component-based thinking in UI design.
+This design demonstrates my ability to analyze a real-world platform (Flipkart), extract key user interface elements, and recreate a meaningful UI/UX experience from scratch using Figma. This task helped me improve my skills in layout design, user flow, and component-based thinking in UI design.i
 
